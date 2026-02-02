@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.hasLink("image/截屏2026-02-02 14.16.01.png")
