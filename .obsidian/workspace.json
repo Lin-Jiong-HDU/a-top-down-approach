@@ -11,14 +11,12 @@
             "id": "14f720dada7ab22f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "chapter1/Performance.md",
-                "mode": "source",
-                "source": false
+                "file": "image/截屏2026-02-04 23.02.25.png"
               },
-              "icon": "lucide-file",
-              "title": "Performance"
+              "icon": "lucide-image",
+              "title": "截屏2026-02-04 23.02.25"
             }
           }
         ]
@@ -185,19 +183,20 @@
   },
   "active": "d94071127d9524f4",
   "lastOpenFiles": [
-    "image/截屏2026-02-03 20.44.06.png",
+    "chapter1/Protocol layers, service models.md",
+    "image/截屏2026-02-04 23.09.19.png",
+    "image/截屏2026-02-04 23.07.35.png",
+    "image/截屏2026-02-04 23.06.33.png",
+    "image/截屏2026-02-04 23.05.44.png",
+    "image/截屏2026-02-04 23.03.03.png",
+    "image/截屏2026-02-04 23.02.25.png",
+    "chapter1/1. Introduction.md",
     "chapter1/Performance.md",
+    "image/截屏2026-02-03 20.44.06.png",
     "image/截屏2026-02-03 20.59.02.png",
     "image/截屏2026-02-03 20.57.16.png",
     "image/截屏2026-02-03 20.55.58.png",
-    "image/截屏2026-02-03 20.45.08.png",
-    "image/截屏2026-02-03 20.44.47.png",
-    "image/截屏2026-02-03 20.44.33.png",
-    "chapter1/1. Introduction.md",
-    "image/截屏2026-02-02 14.42.10.png",
     "chapter1/Network core.md",
-    "image/截屏2026-02-02 15.10.15.png",
-    "image/截屏2026-02-02 15.07.57.png",
     "chapter1/Network edge.md",
     "chapter1/2. The network edge.md",
     "2. The network edge^.md",
