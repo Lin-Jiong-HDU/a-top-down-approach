@@ -11,12 +11,14 @@
             "id": "14f720dada7ab22f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "image/截屏2026-02-04 23.02.25.png"
+                "file": "chapter1/Security.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "截屏2026-02-04 23.02.25"
+              "icon": "lucide-file",
+              "title": "Security"
             }
           }
         ]
@@ -181,21 +183,22 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d94071127d9524f4",
+  "active": "14f720dada7ab22f",
   "lastOpenFiles": [
+    "image/截屏2026-02-05 21.58.27.png",
+    "chapter1/Security.md",
+    "image/截屏2026-02-05 21.57.25.png",
+    "image/截屏2026-02-05 21.56.54.png",
+    "image/截屏2026-02-05 21.56.20.png",
+    "image/截屏2026-02-05 21.54.54.png",
+    "image/截屏2026-02-05 21.54.15.png",
+    "chapter1/1. Introduction.md",
+    "image/截屏2026-02-04 23.02.25.png",
     "chapter1/Protocol layers, service models.md",
     "image/截屏2026-02-04 23.09.19.png",
     "image/截屏2026-02-04 23.07.35.png",
     "image/截屏2026-02-04 23.06.33.png",
-    "image/截屏2026-02-04 23.05.44.png",
-    "image/截屏2026-02-04 23.03.03.png",
-    "image/截屏2026-02-04 23.02.25.png",
-    "chapter1/1. Introduction.md",
     "chapter1/Performance.md",
-    "image/截屏2026-02-03 20.44.06.png",
-    "image/截屏2026-02-03 20.59.02.png",
-    "image/截屏2026-02-03 20.57.16.png",
-    "image/截屏2026-02-03 20.55.58.png",
     "chapter1/Network core.md",
     "chapter1/Network edge.md",
     "chapter1/2. The network edge.md",
