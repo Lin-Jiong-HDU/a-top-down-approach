@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3b5c7d354c355c6f",
+        "id": "2c54dd5173213478",
         "type": "tabs",
         "children": [
           {
-            "id": "14f720dada7ab22f",
+            "id": "e63f4d3e54765584",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapter1/Security.md",
+                "file": "chapter1/History.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security"
+              "title": "History"
             }
           }
         ]
@@ -183,16 +183,18 @@
       "bases:新建数据库": false
     }
   },
-  "active": "14f720dada7ab22f",
+  "active": "d94071127d9524f4",
   "lastOpenFiles": [
-    "image/截屏2026-02-05 21.58.27.png",
+    "chapter1/1. Introduction.md",
+    "chapter1/History.md",
+    "chapter1/Network edge.md",
     "chapter1/Security.md",
+    "image/截屏2026-02-05 21.58.27.png",
     "image/截屏2026-02-05 21.57.25.png",
     "image/截屏2026-02-05 21.56.54.png",
     "image/截屏2026-02-05 21.56.20.png",
     "image/截屏2026-02-05 21.54.54.png",
     "image/截屏2026-02-05 21.54.15.png",
-    "chapter1/1. Introduction.md",
     "image/截屏2026-02-04 23.02.25.png",
     "chapter1/Protocol layers, service models.md",
     "image/截屏2026-02-04 23.09.19.png",
@@ -200,7 +202,6 @@
     "image/截屏2026-02-04 23.06.33.png",
     "chapter1/Performance.md",
     "chapter1/Network core.md",
-    "chapter1/Network edge.md",
     "chapter1/2. The network edge.md",
     "2. The network edge^.md",
     "chapter1",
